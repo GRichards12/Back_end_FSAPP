@@ -7,7 +7,7 @@
 - The DB entires require a username, password and email to sign up. The password will be hashed before being added to the database.
 - Various CRUD features are included, however they're intentionally not part of the front end.
 
-# Design and testing
+## Design and testing
 
 - This app was made with expressjs, node.js and mongoose. It was tested as working with localhost routing, interacting with the frontend very well.
 - There is a deployment subject to change at https://dashboard.heroku.com/apps/restbackendgrich using this repo.
